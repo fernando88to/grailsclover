@@ -13,8 +13,6 @@ apply plugin: 'com.bmuschko.clover'
 
 dependencies {
     clover 'org.openclover:clover:4.5.1'
-    //clover 'org.openclover:clover:4.3.1'
-    //clover 'org.openclover:clover:4.2.0'
 }
 
 clover {
